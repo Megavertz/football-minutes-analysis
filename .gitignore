@@ -4,3 +4,5 @@ venv/
 *.ipynb_checkpoints
 data/
 outputs/
+!data/.gitkeep
+!outputs/.gitkeep
